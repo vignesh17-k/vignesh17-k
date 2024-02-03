@@ -25,6 +25,9 @@ Feel free to explore my repositories and projects here. I'm always open to colla
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh17-k&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh17-k" /> </p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vignesh17-k" alt="vignesh17-k" /></a> </p>
+
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=vignesh17-k&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <h3 align="left">Connect with me:</h3>
