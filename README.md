@@ -6,6 +6,7 @@ I'm a passionate front-end developer at SourceWiz, where I've been contributing 
 - Front-end Development
 - HTML, CSS, JavaScript, TypeScript 
 - React.js
+- React Native 
 - Cypress
 - Responsive Web Design
 - UI/UX Design principles
