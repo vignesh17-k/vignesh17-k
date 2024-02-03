@@ -32,7 +32,7 @@ I'm Vignesh K, a passionate front-end developer at SourceWiz, where I've been co
 
 #
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p>
+<h4 align="left">🏆 Git profile Trophies:</h4>
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=vignesh17-k&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
@@ -45,11 +45,10 @@ I'm Vignesh K, a passionate front-end developer at SourceWiz, where I've been co
 
 #
 
+<h3 align="left">💻 Languages and Tools:</h3>
+
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
-
-
-<h3 align="left">Languages and Tools:</h3>
 
 <br/>
 <br/>
@@ -64,7 +63,6 @@ I'm Vignesh K, a passionate front-end developer at SourceWiz, where I've been co
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"></code> 
 <code><img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="nextjs" width="40" height="40"></code>
 <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"></code> 
 <code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"></code> 
 
@@ -83,11 +81,18 @@ I'm Vignesh K, a passionate front-end developer at SourceWiz, where I've been co
 
 #
 
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh17-k&show_icons=true&locale=en&layout=compact" alt="vignesh17-k" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh17-k&show_icons=true&locale=en" alt="vignesh17-k" /></p>
-
-
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh17-k&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh17-k&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+<br/>
 
 
