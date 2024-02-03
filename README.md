@@ -34,7 +34,7 @@ I'm Vignesh K, a passionate front-end developer at SourceWiz, where I've been co
 
 <h4 align="left">🏆 Git profile Trophies:</h4>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=vignesh17-k&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=vignesh17-k&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 
 <p align="center">
