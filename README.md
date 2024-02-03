@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vignesh K</h1>
 
-I'm a passionate front-end developer at SourceWiz, where I've been contributing my skills and creativity for the past 1.3 years. During this time, I've had the opportunity to work on three exciting projects, honing my expertise in crafting user-friendly and visually appealing web experiences.
 
-<img align='right' alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+ <div align=center>
+        <p></p>
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%red&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Vignesh+%F0%9F%91%8B;Front-End+Problem+Solver;Open-Source+Enthusiast;Workaholic;Debugger" alt="Headline" />
+    </div>
+
+I'm Vignesh K, a passionate front-end developer at SourceWiz, where I've been contributing my skills and creativity for the past 1.3 years. During this time, I've had the opportunity to work on three exciting projects, honing my expertise in crafting user-friendly and visually appealing web experiences.
+
+<img align='right' alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 #### 🚀 My Expertise:
 - Front-end Development
@@ -17,9 +24,10 @@ I'm a passionate front-end developer at SourceWiz, where I've been contributing 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vignesh-k-vk1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vignesh-k-vk1999/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/tag/array/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tag/array/" height="30" width="40" /></a>
-   <a href="mailto:your.email@example.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
+   <a href="mailto:vignesh17-k@gmail.com" target="blank">
+   <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="25" width="30" />
   </a>
+   <a href="https://www.hackerrank.com/profile/vignesh19991717" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
 </p>
 
 #
