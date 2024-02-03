@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Vignesh K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+I'm a passionate front-end developer at SourceWiz, where I've been contributing my skills and creativity for the past 1.3 years. During this time, I've had the opportunity to work on three exciting projects, honing my expertise in crafting user-friendly and visually appealing web experiences.
+
+#### 🚀 My Expertise:
+- Front-end Development
+- HTML, CSS, JavaScript, TypeScript 
+- React.js
+- Cypress
+- Responsive Web Design
+- UI/UX Design principles
+
+#### 💡 What Drives Me:
+I am fueled by a genuine passion for creating seamless and delightful user interfaces. I believe in the power of clean code and user-centric design to elevate digital experiences.
+
+#### 🌐 Let's Connect:
+Feel free to explore my repositories and projects here. I'm always open to collaboration, learning, and sharing ideas. Let's connect and build something amazing together!
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh17-k&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh17-k" /> </p>
 
