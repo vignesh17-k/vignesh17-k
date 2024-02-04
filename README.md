@@ -4,7 +4,7 @@
         <p></p>
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%red&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Vignesh+%F0%9F%91%8B;Front-End+Problem+Solver;Open-Source+Enthusiast;Workaholic;Debugger" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%red&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Vignesh+%F0%9F%91%8B;Front-End+Developer;Problem+Solver;Open-Source+Enthusiast;Workaholic;Debugger" alt="Headline" />
     </div>
 
 I'm Vignesh K, a passionate front-end developer at SourceWiz, where I've been contributing my skills and creativity for the past 1.3 years. During this time, I've had the opportunity to work on three exciting projects, honing my expertise in crafting user-friendly and visually appealing web experiences.
